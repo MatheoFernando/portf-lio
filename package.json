@@ -16,7 +16,7 @@
     "@tsparticles/engine": "^3.5.0",
     "astro": "^4.15.1",
     "gsap": "^3.12.5",
-    "tailwindcss": "^3.4.10",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
